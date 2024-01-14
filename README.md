@@ -1,10 +1,13 @@
 # Amena Mahdami 
-This is a Portfolio to showcase my Data Science work using different programming languages like Python and R.
+A self-taught Computational biomedical professional with background in Molecular Medicine and an extensive experince in biomedical research. 
 
-### Core Skills
+## Computaional Skills
+R, Linux, Python
+
 
 ### Projects:
 - RNAseq Pipeline:
+
   
 - DESeq2 workflow on airway smooth muscle cells, by Himes et al PLoS One 2014
 (PMID: 24926665. GEO: GSE52778)
@@ -17,8 +20,6 @@ This is a Portfolio to showcase my Data Science work using different programming
 
 ### Education
 Molecular Medicine and Translational Research, M.Sc. 
-
-### Professional Experience
 
 
 ### Languages
