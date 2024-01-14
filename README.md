@@ -1,5 +1,5 @@
 # Amena Mahdami 
-A self-taught Computational biomedical professional with background in Molecular Medicine and an extensive experince in biomedical research. 
+A self-taught Computational Biomedical professional with background in Molecular Medicine and an extensive experince in Biomedical Research. 
 
 ## Computaional Skills
 R, Linux, Python
