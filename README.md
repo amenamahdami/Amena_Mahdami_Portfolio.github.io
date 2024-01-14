@@ -15,6 +15,7 @@ R, Linux, Python
 ![Differential Gene Expression Volcano Plot](assets/img/Volcano_plot_airway.png)
   
 - Heart Disease dataset analysis
+  
 ![Heart Disease Correlation Matrix Heatmap](assets/img/heart_disease_correlationmatrix_heatmap.png)
 
 
@@ -22,5 +23,4 @@ R, Linux, Python
 Molecular Medicine and Translational Research, M.Sc. 
 
 
-### Languages
-- English: Proficient 					- Dutch: Basic understanding (level B.1)
+[Publication](https://pubmed.ncbi.nlm.nih.gov/37247580/)
