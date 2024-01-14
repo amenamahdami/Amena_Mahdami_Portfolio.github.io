@@ -1,11 +1,13 @@
-# Amena Mahdami 
+## Personal Statement 
 A self-taught Computational Biomedical professional with background in Molecular Medicine and an extensive experince in Biomedical Research. 
+
+## Education
+Molecular Medicine and Translational Research, M.Sc. 
 
 ## Computaional Skills
 R, Linux, Python
-
-
-### Projects:
+ 
+## Projects:
 - RNAseq Pipeline:
 
   
@@ -15,12 +17,11 @@ R, Linux, Python
 ![Differential Gene Expression Volcano Plot](assets/img/Volcano_plot_airway.png)
   
 - Heart Disease dataset analysis
-  
+[Heart_Disease_Prediction.ipynb](http://localhost:8888/notebooks/Documents/Machine%20Learning/ML_Project_Heart_Disease_Prediction.ipynb)
 ![Heart Disease Correlation Matrix Heatmap](assets/img/heart_disease_correlationmatrix_heatmap.png)
 
 
-### Education
-Molecular Medicine and Translational Research, M.Sc. 
+
 
 
 [Publication](https://pubmed.ncbi.nlm.nih.gov/37247580/)
