@@ -11,14 +11,20 @@ R, Linux, Python
 - RNAseq Pipeline:
 [Bash Script](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/blob/main/RNASeq_pipeline.sh)
 
+##describe data and steps of workflow##
+
 - DESeq2 workflow on airway smooth muscle cells, by Himes et al PLoS One 2014
 (PMID: 24926665. GEO: GSE52778)
 [R Script](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/blob/main/DESeq2_workflow_airway.R)
+##describe data and steps of workflow##
 
 ![Differential Gene Expression Volcano Plot](assets/img/Volcano_plot_airway.png)
+
   
 - Heart Disease dataset analysis
-[Heart_Disease_Prediction.ipynb]()
+[Python Script](file:///C:/Users/u0149935/AppData/Local/Microsoft/Windows/INetCache/IE/Y4EEQ3KX/ML_Project_Heart_Disease_Prediction[1].html)
+##describe data and steps of workflow##
+
 ![Heart Disease Correlation Matrix Heatmap](assets/img/heart_disease_correlationmatrix_heatmap.png)
 
 
