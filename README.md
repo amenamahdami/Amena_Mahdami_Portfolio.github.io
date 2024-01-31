@@ -22,7 +22,7 @@ R, Linux, Python
 
   
 - Heart Disease dataset analysis
-[Python Script](file:///C:/Users/u0149935/AppData/Local/Microsoft/Windows/INetCache/IE/Y4EEQ3KX/ML_Project_Heart_Disease_Prediction[1].html)
+[Python Script](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/blob/main/ML_Project_Heart_Disease_Prediction.py)
 ##describe data and steps of workflow##
 
 ![Heart Disease Correlation Matrix Heatmap](assets/img/heart_disease_correlationmatrix_heatmap.png)
