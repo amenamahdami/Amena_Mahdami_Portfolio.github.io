@@ -9,7 +9,7 @@ R, Linux, Python
  
 ## Projects:
 - RNAseq Pipeline:
-
+[Bash Script](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/blob/main/RNASeq_pipeline.sh)
   
 - DESeq2 workflow on airway smooth muscle cells, by Himes et al PLoS One 2014
 (PMID: 24926665. GEO: GSE52778)
