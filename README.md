@@ -24,7 +24,7 @@ R, Linux, Python
 #### Heart Disease Prediction
 - [Python Script](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/blob/main/Python/ML_Project_Heart_Disease_Prediction.ipynb)
 
-In this project I use publicly available Heart Disease Dataset from [kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), to predict heart disease incident.
-The first part of the project I perform data wrangling and exploration. In the second part I use Machine Learning to predict wether a patient is having high risk of heart disease or not.
+> In this project I use publicly available Heart Disease Dataset from [kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), to predict heart disease incident.
+> The first part of the project I perform data wrangling and exploration. In the second part I use Machine Learning to predict wether a patient is having high risk of heart disease or not.
 
 
