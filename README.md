@@ -21,14 +21,10 @@ R, Linux, Python
 ![Differential Gene Expression Volcano Plot](assets/img/Volcano_plot_airway.png)
 
   
-- Heart Disease dataset analysis
-[Python Script](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/blob/main/ML_Project_Heart_Disease_Prediction.py)
-##describe data and steps of workflow##
+#### Heart Disease Prediction
+- [Python Script](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/blob/main/Python/ML_Project_Heart_Disease_Prediction.ipynb)
 
-![Heart Disease Correlation Matrix Heatmap](assets/img/heart_disease_correlationmatrix_heatmap.png)
-
-
+In this project I use publicly available Heart Disease Dataset from [kaggle](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset), to predict heart disease incident.
+The first part of the project I perform data wrangling and exploration. In the second part I use Machine Learning to predict wether a patient is having high risk of heart disease or not.
 
 
-
-[Publication list](https://orcid.org/0000-0002-3226-6933)
