@@ -7,11 +7,11 @@ library(DESeq2)
 library(tidyverse)
 library(airway)
 
+
 #### Step 1: preparing count data ####
 # read in counts data
 counts_data <- read.csv('counts_data.csv')
 head(counts_data)
-
 
 # read in sample info
 colData <- read.csv('sample_info.csv')
@@ -22,15 +22,14 @@ all(colnames(counts_data) %in% rownames(colData))
 # are they in the same order?
 all(colnames(counts_data) == rownames(colData))
 
+
 #### Step 2: construct a DESeqDataSet object ####
 dds <- DESeqDataSetFromMatrix(countData = counts_data,
                               colData = colData,
                               design = ~ dexamethasone)
-
 dds
 
 #^ design factor is in what thing you want to compare your samples? this case it's treats VS untreated
-
 # pre-filtering: removing rows with low gene counts
 #to reduce the size of the dds dataset object and speedup computation
 #This step is recommended but not required
@@ -38,7 +37,6 @@ dds
 keep <- rowSums(counts(dds)) >= 10
 #then you use the logical value 'keep' to subsit our data object 'dds
 dds <- dds[keep,]
-
 dds
 
 # set the factor level
@@ -52,9 +50,7 @@ dds$dexamethasone
 #### Step 3: Run DESeq ####
 dds <- DESeq(dds)
 res <- results(dds)
-
 res
-
 # log2 fold change is calculated for in the design factor 'dexamethasone' b/w treated & untreated
 # whatever value we see in the FC are all in the 'treated', bc it's compared to the'untreated'
 # baseMean: the avrage of the normalized counts taken over all the samples 
@@ -69,7 +65,6 @@ res
 
 
 #### Explore Results ####
-
 summary(res)
 
 # change p-value < 0.1 
@@ -85,30 +80,15 @@ resultsNames(dds)
 
 results(dds, contrast = c("dexamethasone", "treated_4hrs", "untreated"))
 
-#### Visualize: MA plot ####
-# MA plot is a scatter plot of log to FC VS the mean of normalized counts 
-# it shows us the genes that are differentially expressed
-# the genes colored in blue are sigificantlly DE genes and have adjusted pvalue of less than 0.05
-# the genes shown in triangle have higher logFC
-# in this plot we hope to see genes in the upper right or lower right quadrant
-# ^which means that these genes have high mean of normalized count and high log FC
-# ^which makes these very interesting candidates to be further looked into
+
+#### Visualize ####
+# MA plot: 
+#^is a scatter plot of log to FC VS the mean of normalized counts 
 plotMA(res)
 
-# another way:
+# Volcano plot:
 library("EnhancedVolcano")
 
-EnhancedVolcano(res,
-                lab = rownames(res),
-                x = 'log2FoldChange',
-                y = 'pvalue',
-                pCutoff = 10e-32,
-                FCcutoff = 0.5,
-                pointSize = 3.0,
-                labSize = 6.0)
-
-
-# Adjusted legend position, size, and text
 EnhancedVolcano(res,
                 lab = rownames(res),
                 x = 'log2FoldChange',
