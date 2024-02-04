@@ -51,7 +51,8 @@ R, Linux, Python
 
 #### Resources, References & Training:
 <h6>
-- [HISAT2 Manual](https://daehwankimlab.github.io/hisat2/manual/)
+ <p>
+- [HISAT2 Manual](https://daehwankimlab.github.io/hisat2/manual/) <br>
 - [featureCounts](https://rnnh.github.io/bioinfo-notebook/docs/featureCounts.html)
 - [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
 - [Linux/Unix Command Cheat Sheet](https://rumorscity.com/2014/08/16/6-best-linuxunix-command-cheat-sheet/)
@@ -61,5 +62,5 @@ R, Linux, Python
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [scikit-learn Machine Learning in Python](https://scikit-learn.org/stable/)
 - [scikit-learn Classifier comparison](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py)
-- [Google Data Analytics Certificate](https://coursera.org/share/0dd196ce17876b5d71ccc0c4695b738f)
+- [Google Data Analytics Certificate](https://coursera.org/share/0dd196ce17876b5d71ccc0c4695b738f) </p>
  6</h6>
