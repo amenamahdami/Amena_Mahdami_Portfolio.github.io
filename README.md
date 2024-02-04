@@ -49,8 +49,16 @@ R, Linux, Python
 - In the second part I use Machine Learning to predict wether a patient is having high risk of heart disease or not.
 
 
-### Training and Certificates:
-- 
-### Resources:
-
+#### Resources, References & Training:
+- [HISAT2 Manual](https://daehwankimlab.github.io/hisat2/manual/)
+- [featureCounts](https://rnnh.github.io/bioinfo-notebook/docs/featureCounts.html)
+- [FastQC](https://www.bioinformatics.babraham.ac.uk/projects/fastqc/)
+- [Linux/Unix Command Cheat Sheet](https://rumorscity.com/2014/08/16/6-best-linuxunix-command-cheat-sheet/)
+- [Bioconductor](https://www.bioconductor.org/help/education-training/)
+- [DESeq2 package](https://bioc.ism.ac.jp/packages/2.14/bioc/vignettes/DESeq2/inst/doc/beginner.pdf)
+- [DESEQ2 R Tutorial](https://lashlock.github.io/compbio/R_presentation.html)
+- [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
+- [scikit-learn Machine Learning in Python](https://scikit-learn.org/stable/)
+- [scikit-learn Classifier comparison](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py)
+- [Google Data Analytics Certificate](https://coursera.org/share/0dd196ce17876b5d71ccc0c4695b738f)
 
