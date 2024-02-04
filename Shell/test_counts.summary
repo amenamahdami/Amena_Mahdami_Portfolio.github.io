@@ -1,0 +1,15 @@
+Status	data/control.bam	data/control2.bam	data/control3.bam	data/silenced.bam	data/silenced2.bam	data/silenced3.bam
+Assigned	12332610	12891052	12880635	13403458	13309084	13512531
+Unassigned_Unmapped	168658	175437	187092	194665	186656	184660
+Unassigned_Read_Type	0	0	0	0	0	0
+Unassigned_Singleton	0	0	0	0	0	0
+Unassigned_MappingQuality	0	0	0	0	0	0
+Unassigned_Chimera	0	0	0	0	0	0
+Unassigned_FragmentLength	0	0	0	0	0	0
+Unassigned_Duplicate	0	0	0	0	0	0
+Unassigned_MultiMapping	3230380	3345027	3668260	3453154	3591884	4238636
+Unassigned_Secondary	0	0	0	0	0	0
+Unassigned_NonSplit	0	0	0	0	0	0
+Unassigned_NoFeatures	369884	319026	277004	388017	360128	312009
+Unassigned_Overlapping_Length	0	0	0	0	0	0
+Unassigned_Ambiguity	1144089	1243618	1260607	1298702	1270462	1325257
