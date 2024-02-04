@@ -23,10 +23,7 @@ R, Linux, Python
 - RNAseq pipeline steps:
   1. Run QC on read using FastQC 
   2. Mapping of reads to genome using HISAT2
-  3. Reads quantification using featureCounts![image](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/assets/117296183/65d58fe7-6dbf-4713-9ef3-580d2aa59198)
-![image](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/assets/117296183/5315b86f-3cfb-4b64-8b5a-6783b40c7609)
-![image](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/assets/117296183/a1560c75-e64f-4d8c-9ac8-eabc0e589e65)
-
+  3. Reads quantification using featureCounts
     
 - Results from the run: [RNA-seq counts matrix](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/blob/main/Shell/sample_counts.tsv) , [test_counts.summary](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/blob/main/Shell/test_counts.summary)  
 
