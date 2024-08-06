@@ -1,8 +1,3 @@
-### Personal Statement 
-A self-taught Translational Bioinformatician with background in Molecular Medicine and an extensive experience in Biomedical Research. 
-
-### Education
-Molecular Medicine and Translational Research, M.Sc. 
 
 ### Computational Skills
 - R: Bioconductor, DESeq2, ggplot2
