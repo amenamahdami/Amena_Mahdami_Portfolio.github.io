@@ -45,8 +45,8 @@ This project analyzes RNA-seq data from BE Himes et al. ([PMID: 24926665](https:
 4. **Visualization**: Explore results and generate volcano plot.
 
 **Results:**
-- Differential gene expression analysis
-- ![Differential Gene Expression Volcano Plot](assets/img/Volcano_plot_airway.png)
+- Differential gene expression analysis:
+![Differential Gene Expression Volcano Plot](assets/img/Volcano_plot_airway.png)
 
 **Scripts:**
 - [Getting Data](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/blob/main/R/getData_airway.r)
