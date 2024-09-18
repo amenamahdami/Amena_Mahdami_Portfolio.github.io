@@ -67,7 +67,7 @@ This project uses a Kaggle dataset to predict heart disease incidence. It involv
 3. **Machine Learning**: Apply machine learning algorithms to predict heart disease risk.
 4. **Evaluation**: Evaluate model performance using various metrics.
 
-**Scripts:**
+**Script:**
 - [Heart Disease Prediction Python Script](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/blob/main/Python/ML_Project_Heart_Disease_Prediction.ipynb)
 
 ---
