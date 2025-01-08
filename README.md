@@ -83,7 +83,6 @@ This project uses a Kaggle dataset to predict heart disease incidence. It involv
 - [Python Data Science Handbook](https://jakevdp.github.io/PythonDataScienceHandbook/)
 - [scikit-learn Machine Learning in Python](https://scikit-learn.org/stable/)
 - [scikit-learn Classifier comparison](https://scikit-learn.org/stable/auto_examples/classification/plot_classifier_comparison.html#sphx-glr-auto-examples-classification-plot-classifier-comparison-py)
-- [Introduction to Bioinformatics and Computational Biology course](https://liulab-dfci.github.io/bioinfo-combio/)
 - [Google Data Analytics Certificate](https://coursera.org/share/0dd196ce17876b5d71ccc0c4695b738f) 
 
 ---
