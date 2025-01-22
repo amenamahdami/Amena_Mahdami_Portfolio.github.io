@@ -86,4 +86,6 @@ This project uses a Kaggle dataset to predict heart disease incidence. It involv
 - [Google Data Analytics Certificate](https://coursera.org/share/0dd196ce17876b5d71ccc0c4695b738f) 
 - [Bioinformatics tools: Awsome single cell](https://github.com/seandavi/awesome-single-cell)
 - [Single-cell best practices](https://www.sc-best-practices.org/preamble.html) 
+
+
 ---
