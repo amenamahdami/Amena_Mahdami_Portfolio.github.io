@@ -18,8 +18,11 @@ This project analyzes the Hospital Waiting List Management Dataset ([Kaggle](htt
 
 **Dashboard Overview:**
 
-![Summary Page](BI_dashboard/waitlist_summary.png)
-![Detailed Overview](BI_dashboard/waitlist_detailedview.png)
+<p align="center">
+  <img src="BI_dashboard/waitlist_summary.png" alt="Summary Page" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 2px; margin: 5px;">
+  <img src="BI_dashboard/waitlist_detailedview.png" alt="Detailed Overview" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 2px; margin: 5px;">
+</p>
+
 
 
 
