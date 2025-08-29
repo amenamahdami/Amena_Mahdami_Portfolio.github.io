@@ -19,11 +19,9 @@ This project analyzes the Hospital Waiting List Management Dataset ([Kaggle](htt
 **Dashboard Overview:**
 
 <p align="center">
-  <img src="BI_dashboard/waitlist_summary.png" alt="Summary Page" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 2px; margin: 5px;">
-  <img src="BI_dashboard/waitlist_detailedview.png" alt="Detailed Overview" style="border: 2px solid #4CAF50; border-radius: 8px; padding: 2px; margin: 5px;">
+  <img src="BI_dashboard/waitlist_summary.png" alt="Summary Page" style="border: 2px solid #000000; border-radius: 8px; padding: 2px; margin: 5px;">
+  <img src="BI_dashboard/waitlist_detailedview.png" alt="Detailed Overview" style="border: 2px solid #000000; border-radius: 8px; padding: 2px; margin: 5px;">
 </p>
-
-
 
 
 ---
@@ -66,7 +64,10 @@ This project analyzes RNA-seq data from BE Himes et al. ([PMID: 24926665](https:
 
 **Results:**
 - Differential gene expression analysis:
-![Differential Gene Expression Volcano Plot](assets/img/Volcano_plot_airway.png)
+<p align="center">
+  <img src="assets/img/Volcano_plot_airway.png" alt="Differential Gene Expression Volcano Plot" style="border: 2px solid #000000; border-radius: 8px; padding: 2px; margin: 5px;">
+</p>
+
 
 **Scripts:**
 - [Getting Data](https://github.com/amenamahdami/Amena_Mahdami_Portfolio.github.io/blob/main/R/getData_airway.r)
