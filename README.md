@@ -3,12 +3,29 @@
 - **R**: Bioconductor, DESeq2, ggplot2
 - **Linux**: Shell scripting, FastQC, Trimmomatic, SAMtools, HISAT2, featureCounts
 - **Python**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- **Power BI**: Data modeling & transformation, DAX for measures, interactive dashboard design, data visualization, KPI development & performance tracking, trend analysis.
 
 ---
 
 ## Projects
 
-### **1. NGS Reads Processing Pipeline for Human Breast Cancer Cells**
+### **1. Hospital Waitlist BI Dashboard**
+
+**Tools:** Power BI
+
+**Project Overview:**  
+This project analyzes the Hospital Waiting List Management Dataset ([Kaggle](https://www.kaggle.com/datasets/michaelbeanie/hospital-waiting-list-management-dataset)) containing 453,119 records (2018–2021) of inpatient and outpatient waitlist data. The Power BI dashboard tracks current patient waitlist status, visualizes historical monthly trends, and provides specialty-level and age-profile analysis. Key metrics include average and median waiting times and current total waitlist figures to support healthcare resource planning and performance monitoring.
+
+**Dashboard Overview:**
+
+![Summary Page](BI_dashboard/waitlist_summary.png)
+![Detailed Overview](BI_dashboard/waitlist_detailedview.png)
+
+
+
+---
+
+### **2. NGS Reads Processing Pipeline for Human Breast Cancer Cells**
 
 **Tools:** Bash Script, FastQC, HISAT2, featureCounts
 
@@ -31,7 +48,7 @@ This project processes RNA-seq data from the study by S Ishihara et al. ([PMID: 
 
 ---
 
-### **2. Differential Gene Expression Analysis (DGEA) for Human Primary Airway Smooth Muscle Cells**
+### **3. Differential Gene Expression Analysis (DGEA) for Human Primary Airway Smooth Muscle Cells**
 
 **Tools:** R, DESeq2
 
@@ -54,7 +71,7 @@ This project analyzes RNA-seq data from BE Himes et al. ([PMID: 24926665](https:
 
 ---
 
-### **3. Heart Disease Prediction**
+### **4. Heart Disease Prediction**
 
 **Tools:** Python, Pandas, NumPy, Matplotlib, Scikit-learn
 
